@@ -1,32 +1,8 @@
 
+[TODO:  Check proposals adopted since the last SLR to see if there's
+any conflicts]
 
-Amend Rule 2532 (Zombies) to read in full:
-
-      Master is a secured player switch with possible values of any
-      player, and Agora. Every player's default master is emself; rules
-      to the contrary notwithstanding, a player CAN always flip eir own
-      master to emself by announcement.
-      
-      A player whose master is not emself is a Zombie (syn. Inactive); 
-      all other players are Active.  A zombie's master, if another 
-      player, is allowed to act on behalf of the zombie (i.e. as the 
-      zombie's agent), except a master CANNOT act on behalf of a zombie 
-      to:
-       - initiate, support, object to, or perform a dependent action;
-       - act on behalf of that zombie's zombies;      
-       - bid in a zombie auction;
-       - enter a contract, pledge, or other type of agreement;     
-       - deregister.
-       
-      A zombie's master CAN flip that zombie's master switch to Agora by
-      announcement. 
-       
-      If a master causes a zombie to perform an ILLEGAL action, the
-      master commits the Class 4+N Crime of Masterminding (where N is 
-      the class of the illegal action). 
-      
-      
-Create the following Rule, Zombie Life Cycle, power=2:
+Create the following Rule, Zombie Life Cycle, power=3:
 
       Any player CAN, with Notice, flip the master switch of an active 
       player who has not made a public announcement in the past 60 days
@@ -55,20 +31,78 @@ Create the following Rule, Zombie Life Cycle, power=2:
       POSSIBLE actions in the preceding paragraph in a timely fashion 
       after first reporting their possibiliy via the facts in eir weekly 
       report.
-                                                                                                 
 
+
+Amend Rule 2532 (Zombies) to read in full:
+
+      Master is a secured player switch with possible values of any
+      player, and Agora. Every player's default master is emself; rules
+      to the contrary notwithstanding, a player CAN always flip eir own
+      master to emself by announcement.
+      
+      A player whose master is not emself is a Zombie (syn. Inactive); 
+      all other players are Active.  A zombie's master, if another 
+      player, is allowed to act on behalf of the zombie (i.e. as the 
+      zombie's agent), except a master CANNOT act on behalf of a zombie 
+      to:
+       - initiate, support, object to, or perform a dependent action;
+       - act on behalf of that zombie's zombies;      
+       - bid in a zombie auction;
+       - enter a contract, pledge, or other type of agreement;     
+       - deregister.
+       
+      A zombie's master CAN flip that zombie's master switch to Agora by
+      announcement. 
+            
+      If a master causes a zombie to perform an ILLEGAL action, the
+      master commits the Class 4+N Crime of Masterminding (where N is 
+      the class of the illegal action). 
+      
+      If a active player who was a zombie has not received a Welcome 
+      Package since e most recently ceased being a zombie, and if eir
+      resale value was less than 2 at any point during eir most recent
+      time as a zombie, then any player CAN cause em to receive a 
+      Welcome Package by announcement.
+      
+[Note the above welcome package things allows e.g. PSS to receive one
+after this is adopted]
+
+                          
+Amend Rule 1885 (Zombie Auctions) by replacing:
+   (2) an auction for it is not underway, and (3) 
+with:
+   (2) is not a lot in an ongoing auction, (3) has a resale value 
+   greater than 0, and (4)
+   
+and by replacing:
+   The Registrar is the announcer, and the minimum bid is 1.
+with:
+   The Registrar is the announcer, and the minimum bid is 1.  Rules
+   to the contrary notwithstanding, the master of a zombie CANNOT
+   bid in a zombie auction, and if e comes to be a zombie's master, 
+   all eir bids in zombie auctions that have not ended are withdrawn. 
 
 
 Amend Rule 869 (How to Join and Leave Agora) by removing:
       If a player has not sent a message to a public forum in the last
       month, then any player CAN deregister em with 3 Agoran Consent.
-        
+
+
+Repeal Rule 2554 (Zombiception).
+
+omd's master switch is hereby set to omd.
+
+Create the following Rule, The Distributor, power=3:
+
+      The Distributor is an imposed office whose holder is generally
+      responsible for the management of the primary Agoran fora.
+      The holder CANNOT be changed except Without Objection or by 
+      proposal.  Rules to the contrary notwithstanding, the 
+      Distributor's master switch CANNOT be flipped to be other than 
+      emself, and e CANNOT be deregistered without eir explicit and
+      direct consent.
       
-      
-                  
-
-
-
+omd is hereby made the Distributor.
 
 
 
